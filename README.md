@@ -24,6 +24,7 @@
 ## References
 https://blog.jetbrains.com/idea/2020/11/sharing-your-project-on-github/
 https://www.jetbrains.com/help/webstorm/set-up-a-git-repository.html#put-existing-project-under-Git
+https://docs.github.com/en/get-started/quickstart/github-glossary
 
 ## Gloassary
 1. <b>Branch</b> - a section of your code that is still under work and does not affect your main code
