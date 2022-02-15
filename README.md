@@ -23,7 +23,7 @@
 
 ## References
 <br>https://blog.jetbrains.com/idea/2020/11/sharing-your-project-on-github/</br>
-<br>https://www.jetbrains.com/help/webstorm/set-up-a-git-repository.html#put-existing-project-under-Git</br>
+https://www.jetbrains.com/help/webstorm/set-up-a-git-repository.html#put-existing-project-under-Git
 <br>https://docs.github.com/en/get-started/quickstart/github-glossary</br>
 
 ## Gloassary
