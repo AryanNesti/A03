@@ -22,9 +22,9 @@
 - Now click the file you would like to commit and you are then done
 
 ## References
-https://blog.jetbrains.com/idea/2020/11/sharing-your-project-on-github/
-https://www.jetbrains.com/help/webstorm/set-up-a-git-repository.html#put-existing-project-under-Git
-https://docs.github.com/en/get-started/quickstart/github-glossary
+<br>https://blog.jetbrains.com/idea/2020/11/sharing-your-project-on-github/</br>
+<br>https://www.jetbrains.com/help/webstorm/set-up-a-git-repository.html#put-existing-project-under-Git</br>
+<br>https://docs.github.com/en/get-started/quickstart/github-glossary</br>
 
 ## Gloassary
 1. <b>Branch</b> - a section of your code that is still under work and does not affect your main code
