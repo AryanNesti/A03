@@ -26,15 +26,15 @@ https://blog.jetbrains.com/idea/2020/11/sharing-your-project-on-github/
 https://www.jetbrains.com/help/webstorm/set-up-a-git-repository.html#put-existing-project-under-Git
 
 ## Gloassary
-1. <b>Branch</b>
+1. <b>Branch</b> - 
 2. <b>Clone</b>
-3. *Commit*
-4. *Fetch*
-5. GIT
-6. Github
-7. Merge
-8. Merge Conflict
-9. Push
-10. Pull
-11. Remote
-12. Repository
+3. <b>Commit</b>
+4. <b>Fetch</b>
+5. <b>GIT</b>
+6. <b>Github</b>
+7. <b>Merge</b>
+8. <b>Merge Conflict</b>
+9. <b>Push</b>
+10. <b>Pull</b>
+11. <b>Remote</b>
+12. <b>Repository</b>
