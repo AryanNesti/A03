@@ -2,11 +2,11 @@
 
 ## Steps to downloading Git on macOS
 - Go to homebrew https://brew.sh and copy the words under "Install HomeBrew"
-- Open up terminal on your device and paste the thing you copied (This will install homebrew)
+- Open up terminal on your device and paste the thing you copied (This will install homebrew to help install Git)
 - Now in the terminal type 'brew install git' (This will install Git)
 
 ## Create a GitHub account
-- 
+- Go to https://github.com/signup/ to make a GitHub account
 
 ## Downloading Webstorm steps on macOS
 - First you go to jetbrain webpage for webstorm (https://www.jetbrains.com/webstorm/)
